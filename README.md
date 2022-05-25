@@ -10,6 +10,8 @@ Rules📜 :
 
 - each player has a speciall peice which can be red or blue.
 
-- You can setup desire page at the setting (before starting the match)
+- You can setup desire page at the setting (before starting the match).
 
-- player's piece can't cross the walls
+- player's piece can't cross the walls.
+
+Hope you enjoy this game :) have fun !
